@@ -1,7 +1,9 @@
-- 👋 Hi, I am Snehal Patil
-- 👀 I am interested in Coding, Designing.
-- 🌱 I am currently learning website creation.
-- 💞️ I know the languages like Java, Asp.net, Sql, Javascript, Html, css, Bootstrap.
+- Hi, I am Snehal Patil
+- I am interested in Software Testing.
+- I am currently learning new technologies related to Software Testing.
+- I completed Software Testing Course with Certificate.
+- I also have the knowledge of Selenium Webdriver, TestNG, Maven, JIRA tool.
+- I know the languages like Java, Asp.net, Sql, Javascript, Html, css, Bootstrap.
 -
 
 <!---
